@@ -58,26 +58,5 @@ button {
     transform: scale(1.1);
 }
 
-
-
-@media screen and (max-width: 430px){
-    .app {
-        width: 95vw;
-        height: 85vh;
-        border: 2px solid #ec4646;
-        border-radius: 20px;
-    }
-
-   
-}
-
-@media screen and (max-width: 330px){
-    .app {
-        width: 100vw;
-        height: 85vh;
-        border: 1px solid #ec4646;
-        border-radius: 20px;
-    }
-
     
 }

@@ -58,10 +58,7 @@ button {
     transform: scale(1.1);
 }
 
-footer{
-    position: absolute;
-    bottom: 0;
-}
+
 
 @media screen and (max-width: 430px){
     .app {
@@ -71,10 +68,7 @@ footer{
         border-radius: 20px;
     }
 
-    footer{
-        width: 95vw;
-        font-size: 12px;
-    }
+   
 }
 
 @media screen and (max-width: 330px){
@@ -85,8 +79,5 @@ footer{
         border-radius: 20px;
     }
 
-    footer{
-        width: 95vw;
-        font-size: 12px;
-    }
+    
 }
